@@ -1,4 +1,4 @@
-web site for make users and give them permissionsand roles, you can make books ,categories,publisher and author and user can borrows them from date to date .
+web site for borrows books. in this site you can make users and give them permissions and roles, you can make books ,categories,publisher and author and user can borrows them from date to date .
 `
 cd Ahmed-ahmed
 ```
