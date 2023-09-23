@@ -2,33 +2,22 @@ Web site for borrows books. in this site you can make users and give them permis
 
 
 
-```cd Ahmed-ahmed```
+```cd books__site_for_borrow_books_with_dashboard```
 
 
 
-```
-copy .env.example .env
-```
+```copy .env.example .env```
 
-```
-composer install
-```
+```composer install```
 
-```
-php artisan storage:link
-```
+```php artisan storage:link```
 
-```
-php artisan key:generate
-```
+```php artisan key:generate```
 
-```
-php artisan migrate:fresh --seed
-```
+```php artisan migrate:fresh --seed```
 
-```
-php artisan serve
-```
+```php artisan serve```
+
 username : admin
 email : admin@gmail.com
 password : admin
